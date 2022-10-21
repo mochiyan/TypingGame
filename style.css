@@ -67,3 +67,12 @@ body{
 .type-Input:focus{
     border-color: black;
 }
+
+.correct {
+    color: blue;
+}
+
+.incorrect{
+    color:rgb(240, 161, 108);
+    text-decoration: underline;
+}
